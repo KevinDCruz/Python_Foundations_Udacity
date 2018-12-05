@@ -21,5 +21,5 @@ def draw_art():
     angie.circle(100)
 
     window.exitonclick()
-    
+
 draw_art()
