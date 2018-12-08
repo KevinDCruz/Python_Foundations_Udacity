@@ -1,7 +1,7 @@
 from twilio import rest
 
 # Your Account SID from twilio.com/console
-account_sid = "ACda7645742cd075eac3dcc97efc3e87d8"
+account_sid = ""
 # Your Auth Token from twilio.com/console
 auth_token  = "8a9f88b4db9b44032b63189ee4d67bd1"
 
