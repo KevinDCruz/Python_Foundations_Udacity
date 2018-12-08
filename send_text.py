@@ -3,7 +3,7 @@ from twilio import rest
 # Your Account SID from twilio.com/console
 account_sid = ""
 # Your Auth Token from twilio.com/console
-auth_token  = "8a9f88b4db9b44032b63189ee4d67bd1"
+auth_token  = ""
 
 client = rest.Client(account_sid, auth_token)
 
